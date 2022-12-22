@@ -10,6 +10,7 @@ Program to read invoices and to extract required information and upload the data
  - Each error during all the steps mentioned above are triggered and will inform the client.
  - Screen shoots are generated for each ERP step. Client will be able to track down, visualy, the process steps and also to debug some error cases.
  - Each xls file containing the final results of the ERP process steps and the invoices processed data will be archived.
+ - Thread system is implemented to monitor the work in progress and to force an emergency exit in case the app got stucked (which should never happen. :) ) 
 
 # Screens.
 
