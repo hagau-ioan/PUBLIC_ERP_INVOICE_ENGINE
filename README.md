@@ -17,4 +17,4 @@ Program to read invoices and to extract required information and upload the data
 ![alt text](https://roomwizard.hagau.ro/erp-invoice-screens/cmd-resized.png)
 
 ##### Code sample and additional info regarding the ERP INVOICE ENGINE.
-![alt text](https://roomwizard.hagau.ro/erp-invoice-screens/code-resized.png)
+![alt text](https://roomwizard.hagau.ro/erp-invoice-screens/code.png)
